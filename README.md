@@ -1,9 +1,8 @@
 # PitchPerfect - Project 1, iOS Developer Nanodegreee
 
-## Project Overview
 An iPhone app that will allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up or slow down the rate of playback, and experience fun echo and reverb effects.
 
-### Concepts Learned
+## Concepts Learned
 - Creating a new project from existing iOS app templates
 - Adding buttons, images, labels and create user interfaces for the app using the Storyboard
 - Leveraging the Model View Controller (MVC) design principles; this includes writing custom model code, and using UIViewController, and UIView
